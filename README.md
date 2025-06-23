@@ -1,2 +1,3 @@
 # gitskills
-Creating a new and brilliant branch is quick &&&&& simple.
+Creating a new branch is quick &&&&& simple.
+Hello 
